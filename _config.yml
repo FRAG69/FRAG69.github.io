@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: [FRAG.HACK.DESIGN]
+show_downloads: true
+google_analytics:
 description: [Some place on the internet where FRAG resides]
