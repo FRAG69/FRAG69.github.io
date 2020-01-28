@@ -2,9 +2,15 @@
 layout: default
 ---
 
-**Howdy there**, welcome to my site!
+### Content
 
-[Test page](./another-page.html).
+| Site         | Projects          | misc |
+|:-------------|:------------------|:------|
+| [Home](./index.md)           | [Operation:Black Mesa](./another-page.html) | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 
 # Who am I?
 
