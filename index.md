@@ -2,25 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**Howdy there**, welcome to my site!
 
-[Link to another page](./another-page.html).
+[Test page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Who am I?
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I'm a 30 something developer, currently working on [Operation: Black Mesa](https://www.moddb.com/mods/operation-black-mesa) as a level designer using the **CSGO** branch of the [Source engine](https://developer.valvesoftware.com/wiki/Source)
 
-# Header 1
+I currently work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## TBA
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### TBA
 
 ```js
 // Javascript code with syntax highlighting.
