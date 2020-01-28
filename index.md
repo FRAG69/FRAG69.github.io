@@ -12,14 +12,14 @@ I'm a 30 something developer, currently working on [Operation: Black Mesa](https
 
 I currently work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices.
 
-## TBA
+## Current Side Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Currently learning Python & MicroPython and making apps for the [Campzone 2019 iPane badge](https://wiki.badge.team/CZ19) 
 
-### TBA
+![Badge connected to PocketChip](./assets/images/badge_n_chip.jpg)
 
+
+## This is default index.md stuff, I need to copy this somewhere!
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
