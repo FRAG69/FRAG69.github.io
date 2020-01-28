@@ -1,3 +1,4 @@
 defaults:
   -
     theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
