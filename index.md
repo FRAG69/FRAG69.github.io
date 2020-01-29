@@ -12,9 +12,7 @@ layout: default
 | ok           | good `zoute` drop | yumm  |
 
 # Skills
-
 ![Skills](./skills_final_final.png)
-
 
 # Who am I?
 
