@@ -13,7 +13,7 @@ layout: default
 
 # Skills
 
-![Skills](./skills_new.png)
+![Skills](./Skills.png)
 
 
 # Who am I?
