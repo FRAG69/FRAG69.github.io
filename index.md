@@ -20,7 +20,7 @@ I also work as a part time Technical Demonstrator at [Plymouth College of Art](h
 
 # Skills
 
-![UE4](./ue4_logo.jpg)  ![Substance Painter](./substance_painter.png)
+[UE4](./ue4_logo.jpg)  [Substance Painter](./substance_painter.png)
 
 ## Current Side Projects
 
