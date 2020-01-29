@@ -6,7 +6,7 @@ layout: default
 
 | Site         | Projects          | misc |
 |:-------------|:------------------|:------|
-| [Home](./index.md)           | [Operation:Black Mesa](./another-page.html) | nice  |
+| [Home](./index.md)           | [Operation:Black Mesa](./another-page.html) | [CV](./OliverCurtisCV.pdf)  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
@@ -24,10 +24,6 @@ Currently learning Python & MicroPython and making apps for the [Campzone 2019 i
 
 ![Badge connected to PocketChip](./assets/images/badge_n_chip.jpg)
 
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
