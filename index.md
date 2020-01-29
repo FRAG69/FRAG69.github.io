@@ -20,8 +20,6 @@ I also work as a part time Technical Demonstrator at [Plymouth College of Art](h
 
 # Skills
 
-[UE4](./ue4_logo.jpg)  [Substance Painter](./substance_painter.png)
-
 ## Current Side Projects
 
 Currently learning Python & MicroPython and making apps for the [Campzone 2019 iPane badge](https://wiki.badge.team/CZ19) 
