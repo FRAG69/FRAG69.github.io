@@ -18,6 +18,10 @@ I'm a 30 something developer, currently working on [Operation: Black Mesa](https
 
 I also work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices for the BA Game Arts course there.
 
+# Skills
+
+![UE4](./ue4_logo.jpg)  ![Substance Painter](./substance_painter.png)
+
 ## Current Side Projects
 
 Currently learning Python & MicroPython and making apps for the [Campzone 2019 iPane badge](https://wiki.badge.team/CZ19) 
