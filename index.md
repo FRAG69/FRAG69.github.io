@@ -30,5 +30,5 @@ Currently learning Python & MicroPython and making apps for the [Campzone 2019 i
 
 
 ```
-The final element.
+The fifth element.
 ```
