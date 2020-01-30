@@ -6,7 +6,7 @@ layout: default
 
 | Site         | Projects          | misc |
 |:-------------|:------------------|:------|
-| [Home](./index.md)           | [Operation:Black Mesa](./another-page.md) | [CV](./OliverCurtis.pdf)  |
+| [Home](./index.md)           | [Operation:Black Mesa](./obm.md) | [CV](./OliverCurtis.pdf)  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
