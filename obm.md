@@ -13,7 +13,7 @@ layout: default
 
 # Operation: Black Mesa
 
-This is all of my work for the "Missing In Action" chapter for Operation Black Mesa.
+This is all of my work for the "Missing In Action" chapter for Operation Black Mesa that has been released to the public so far..
 My work involves:
 Meeting up with other members of the team (monthly) to discuss assets needed, bugs and general feedback.
 Constructing the level using the Hammer Editor.
