@@ -20,6 +20,10 @@ I'm a 30 something developer, currently working on [Operation: Black Mesa](https
 
 I also work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices for the BA Game Arts course there.
 
+<a href="https://dev.to/frag">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="frag's DEV Profile" height="60" width="60">
+</a>
+
 ## Current Side Projects
 
 * Building an nDisplay solution using the green cove film studio at PCA using HQ projectors with the help of [Russel Cleave](https://www.southofdevonfilms.com) & Dajain Daley
@@ -27,8 +31,6 @@ I also work as a part time Technical Demonstrator at [Plymouth College of Art](h
 * This website!
 
 * Currently learning Python & MicroPython and making apps for the [Campzone 2019 iPane badge](https://wiki.badge.team/CZ19) 
-
-![Badge connected to PocketChip](./assets/images/badge_n_chip.jpg)
 
 
 ```
