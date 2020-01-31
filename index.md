@@ -22,6 +22,13 @@ I also work as a part time Technical Demonstrator at [Plymouth College of Art](h
 
 ## Current Side Projects
 
+Building an nDisplay solution using the green cove film studio at PCA using HQ projectors with the help of Russel Cleave & Dajain Daley
+
+![](./images/projects/nDisplay/film_studio_3.jpg =1280×960)
+
+![](./images/projects/nDisplay/film_studio_1.jpg =1280×960)
+
+
 Currently learning Python & MicroPython and making apps for the [Campzone 2019 iPane badge](https://wiki.badge.team/CZ19) 
 
 ![Badge connected to PocketChip](./assets/images/badge_n_chip.jpg)
