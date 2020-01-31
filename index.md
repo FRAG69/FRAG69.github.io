@@ -16,9 +16,10 @@ layout: default
 
 # Who am I?
 
-I'm a 30 something developer, currently working on [Operation: Black Mesa](https://www.moddb.com/mods/operation-black-mesa) as a level designer using the **CSGO** branch of the [Source engine](https://developer.valvesoftware.com/wiki/Source)
+I'm a 30 something developer who graduated with a BA(hons)Design for Games degree in 2012, since then I've been expanding my skills into areas outside of game development as the tools we use evolve with the times. 
+I'm currently working on [Operation: Black Mesa](https://www.moddb.com/mods/operation-black-mesa) as a level designer using the **CSGO** branch of the [Source engine](https://developer.valvesoftware.com/wiki/Source) this is done in my spare time as part of a global team called Tripmine Studios.
 
-I also work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices for the BA Game Arts course there.
+During the day I work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices for the BA Game Arts course there.
 
 ### My DEV.TO Profile
 <a href="https://dev.to/frag">
