@@ -7,7 +7,7 @@ layout: default
 | Site         | Projects          | misc |
 |:-------------|:------------------|:------|
 | [Home](./index.md)           | [Operation:Black Mesa](./obm.md) | [CV](./OliverCurtis.pdf)  |
-| out of stock | good and plenty   | nice  |
+| out of stock | [nDisplay](./nDisplay.md)   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
@@ -24,9 +24,9 @@ I also work as a part time Technical Demonstrator at [Plymouth College of Art](h
 
 Building an nDisplay solution using the green cove film studio at PCA using HQ projectors with the help of Russel Cleave & Dajain Daley
 
-![](./images/projects/nDisplay/film_studio_3.jpg =1280×960)
+![Film Studio](./images/projects/nDisplay/film_studio_3.jpg =1280×960)
 
-![](./images/projects/nDisplay/film_studio_1.jpg =1280×960)
+![Film Studio](./images/projects/nDisplay/film_studio_1.jpg =1280×960)
 
 
 Currently learning Python & MicroPython and making apps for the [Campzone 2019 iPane badge](https://wiki.badge.team/CZ19) 
