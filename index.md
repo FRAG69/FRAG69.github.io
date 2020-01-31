@@ -7,7 +7,7 @@ layout: default
 | Site         | Projects          | misc |
 |:-------------|:------------------|:------|
 | [Home](./index.md)           | [Operation:Black Mesa](./obm.md) | [CV](./OliverCurtis.pdf)  |
-| out of stock | [nDisplay](./nDisplay.md)   | nice  |
+| out of stock | [nDisplay](./nDisplay.md)   | [Contact](./contact.md)  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 

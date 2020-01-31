@@ -12,7 +12,13 @@ layout: default
 | ok           | good `zoute` drop | yumm  |
 
 
-_yay_
+* Hello I'm Oli **"FRAG"** Curtis
+
+![Me!](./images/FRAG.jpg)
+
+* You can contact me via my email at
+
+#### fragisfraf@gmail.com
 
 
 [back](./)
