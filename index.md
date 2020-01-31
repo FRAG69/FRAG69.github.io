@@ -20,6 +20,7 @@ I'm a 30 something developer, currently working on [Operation: Black Mesa](https
 
 I also work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices for the BA Game Arts course there.
 
+### My DEV.TO Profile
 <a href="https://dev.to/frag">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="frag's DEV Profile" height="60" width="60">
 </a>
