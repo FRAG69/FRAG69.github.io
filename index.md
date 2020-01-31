@@ -22,7 +22,7 @@ I also work as a part time Technical Demonstrator at [Plymouth College of Art](h
 
 ## Current Side Projects
 
-* Building an nDisplay solution using the green cove film studio at PCA using HQ projectors with the help of Russel Cleave & Dajain Daley
+* Building an nDisplay solution using the green cove film studio at PCA using HQ projectors with the help of [Russel Cleave](https://www.southofdevonfilms.com) & Dajain Daley
 
 * This website!
 
