@@ -14,7 +14,7 @@ layout: default
 
 * Hello I'm Oli **"FRAG"** Curtis
 
-![Me!](./images/FRAG.jpg)
+![Me!](./images/me.jpg)
 
 * You can contact me via my email at
 
