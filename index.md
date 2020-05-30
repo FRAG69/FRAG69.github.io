@@ -34,6 +34,8 @@ During the day I work as a part time Technical Demonstrator at [Plymouth College
 
 * Currently learning Python & MicroPython and making apps for the [Campzone 2019 iPane badge](https://wiki.badge.team/CZ19) 
 
+### My Discord server
+<iframe src="https://discordapp.com/widget?id=350402319906766849&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ```
 The fifth element.
