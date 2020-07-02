@@ -8,7 +8,7 @@ layout: default
 |:-------------|:------------------|:------|
 | [Home](./index.md) | [Operation:Black Mesa](./obm.md) | [CV](./OliverCurtis.pdf)  |
 | [Twitch](https://www.twitch.tv/fragalicious) | [nDisplay](./nDisplay.md) | [Contact](./contact.md)  |
-| ok           | good `oreos`      | hmm   |
+| [KoFi Blog](https://ko-fi.com/fragalicious)ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
 # Operation: Black Mesa
@@ -28,6 +28,10 @@ Creating tickets using the teams Proofhub system, to request assets or report is
 ![of2a1 fan section](./images/obm/of2a1_fan_room.jpg)
 
 ## OF2A1B
+
+![of2a1b](./images/obm/of2a1b_d.png)
+
+![of2a1b](./images/obm/of2a1b_g.png)
 
 ![of2a1b](./images/obm/of2a1b_a.jpg)
 

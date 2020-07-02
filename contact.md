@@ -8,7 +8,7 @@ layout: default
 |:-------------|:------------------|:------|
 | [Home](./index.md) | [Operation:Black Mesa](./obm.md) | [CV](./OliverCurtis.pdf)  |
 | [Twitch](https://www.twitch.tv/fragalicious) | [nDisplay](./nDisplay.md) | [Contact](./contact.md)  |
-| ok           | good `oreos`      | hmm   |
+| [KoFi Blog](https://ko-fi.com/fragalicious)           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
 

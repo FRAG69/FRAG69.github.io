@@ -12,3 +12,7 @@ layout: default
 | ok           | good `zoute` drop | yumm  |
 
 # About Me
+
+Hello there! My name is Oliver Curtis and I'm a level designer for Tripmine Studios /n
+and a technical demonstrator for Plymouth College of Art. /n
+
