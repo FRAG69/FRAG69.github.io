@@ -17,7 +17,8 @@ layout: default
 # Who am I?
 
 I'm a 30 something developer who graduated with a BA(hons)Design for Games degree in 2012, since then I've been expanding my skills into areas outside of game development as the tools we use evolve with the times. 
-I'm currently working on [Operation: Black Mesa](https://www.moddb.com/mods/operation-black-mesa) as a level designer using the **CSGO** branch of the [Source engine](https://developer.valvesoftware.com/wiki/Source) this is done in my spare time as part of a global team called Tripmine Studios.
+I'm currently working on [Postal 4](https://store.steampowered.com/app/707030/POSTAL_4_No_Regerts/) as a level designer with the awesome folks at [Running With Scissors](https://runningwithscissors.com/) 
+In my spare time I still work on [Operation: Black Mesa](https://www.moddb.com/mods/operation-black-mesa) as a level designer using the **CSGO** branch of the [Source engine](https://developer.valvesoftware.com/wiki/Source) with [Tripmine Studios](https://tripminestudios.com/community/)
 
 During the day I work as a part time Technical Demonstrator at [Plymouth College of Art](https://www.plymouthart.ac.uk) where I run workshops covering Unreal Engine 4 & Virtual Reality creative practices for the BA Game Arts course there.
 
